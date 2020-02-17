@@ -8,3 +8,4 @@ shopping/src/accounts/migrations
 shopping/src/products/migrations
 shopping/src/shopping_cart/migrations
 shopping/src/db.sqlite3
+__pycache__/
