@@ -3,3 +3,8 @@ Solved
 Blog
 Django Framework/envframe
 .idea
+shopping/env
+shopping/src/accounts/migrations
+shopping/src/products/migrations
+shopping/src/shopping_cart/migrations
+shopping/src/db.sqlite3
